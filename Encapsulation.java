@@ -1,3 +1,5 @@
+//used for data hiding
+
 import bank.Bank;
 
 class Encapsulation{
